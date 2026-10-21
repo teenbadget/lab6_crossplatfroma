@@ -1,0 +1,8 @@
+com.example.lab6_crossplatforma.app-main-0 D:\lntu\Crossplatforma\labs_crossplatforma\lab6_crossplatforma\android\app\src\main\res
+com.example.lab6_crossplatforma.app-release-1 D:\lntu\Crossplatforma\labs_crossplatforma\lab6_crossplatforma\android\app\src\release\res
+com.example.lab6_crossplatforma.app-pngs-2 D:\lntu\Crossplatforma\labs_crossplatforma\lab6_crossplatforma\build\app\generated\res\pngs\release
+com.example.lab6_crossplatforma.app-updated_navigation_xml-3 D:\lntu\Crossplatforma\labs_crossplatforma\lab6_crossplatforma\build\app\generated\updated_navigation_xml\release
+com.example.lab6_crossplatforma.app-packageReleaseResources-4 D:\lntu\Crossplatforma\labs_crossplatforma\lab6_crossplatforma\build\app\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.lab6_crossplatforma.app-packageReleaseResources-5 D:\lntu\Crossplatforma\labs_crossplatforma\lab6_crossplatforma\build\app\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.lab6_crossplatforma.app-merged-not-compiled-resources-6 D:\lntu\Crossplatforma\labs_crossplatforma\lab6_crossplatforma\build\app\intermediates\merged-not-compiled-resources\release
+com.example.lab6_crossplatforma.app-release-7 D:\lntu\Crossplatforma\labs_crossplatforma\lab6_crossplatforma\build\app\intermediates\merged_res\release\mergeReleaseResources
